@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "RahulRelekar",
-    "currentPage": "index.html",
+    "currentPage": "professional.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -872,7 +872,7 @@
         }
       ]
     },
-    "page1.html": {
+    "professional.html": {
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Professional",
